@@ -1,4 +1,4 @@
-### I'm Hayeon!
+### I'm Hayeon! 😄
 
 <!--
 **dalsam539/dalsam539** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
